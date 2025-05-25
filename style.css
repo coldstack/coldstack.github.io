@@ -1,0 +1,32 @@
+body {
+    background-color: #111;
+    color: #ddd;
+    font-family: monospace;
+    margin: 0;
+    padding: 2rem;
+}
+
+header, footer {
+    border-bottom: 1px solid #444;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    color: #0f0;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li::before {
+    content: "– ";
+    color: #0f0;
+}
+
+a {
+    color: #0f0;
+    text-decoration: none;
+}
