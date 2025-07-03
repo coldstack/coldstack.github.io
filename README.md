@@ -1,18 +1,7 @@
 # coldstack
 
 tactical public protocol  
-no team. no brand. no hype.
-
----
-
-## contents
-
-/index.html  
-/style.css  
-/CNAME  
-/logs/  
-/stack/  
-/init/  
+no brand. no hype.
 
 ---
 
